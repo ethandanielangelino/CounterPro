@@ -1,4 +1,4 @@
-# KedaiKira
+# CounterPro
 
 A modern Streamlit cash-counter and transaction-log application for traditional hardware stores. The interface uses `streamlit-shadcn-ui` for navigation, cards, badges, and action buttons.
 
