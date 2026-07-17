@@ -6,7 +6,7 @@ from tabs.home import render_home
 from tabs.summary import render_summary
 
 st.set_page_config(
-    page_title="KedaiKira",
+    page_title="CounterPro",
     page_icon=None,
     layout="wide",
     initial_sidebar_state="collapsed",
