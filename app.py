@@ -79,7 +79,7 @@ st.markdown(
 st.markdown(
     """
     <div class="kk-header">
-        <div class="kk-brand">KedaiKira</div>
+        <div class="kk-brand">CounterPro</div>
         <div class="kk-subtitle">Cash counter and transaction management for traditional hardware stores.</div>
     </div>
     """,
